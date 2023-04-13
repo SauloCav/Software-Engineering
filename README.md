@@ -12,3 +12,45 @@ https://www.coursera.org/articles/software-engineer
 
 ### O que é um Software Engineer?
 https://medium.com/trainingcenter/o-que-%C3%A9-um-software-engineer-8631b2eb69f2
+
+### The ABC of software engineering
+https://bertrandmeyer.com/2013/03/25/the-abc-of-software-engineering/
+
+### Developer Survey Results 2018
+https://insights.stackoverflow.com/survey/2018#ethics
+
+### Código de Ética SBC
+https://www.sbc.org.br/institucional-3/codigo-de-etica
+
+### Code of Ethics IEEE
+https://www.computer.org/education/code-of-ethics
+
+### ACM Code of Ethics and Professional Conduct
+https://www.acm.org/code-of-ethics
+
+### Manifesto for Agile Software Development
+https://agilemanifesto.org/
+
+### Object-oriented software construction (2nd ed.)
+https://dl.acm.org/doi/book/10.5555/261119
+
+### The mythical man-month (anniversary ed.)
+https://dl.acm.org/doi/book/10.5555/207583
+
+### Software Maintenance Management
+https://dl.acm.org/doi/book/10.5555/601062
+
+### Software Engineering Body of Knowledge (SWEBOK)
+https://www.computer.org/education/bodies-of-knowledge/software-engineering
+
+### 610.12-1990 - IEEE Standard Glossary of Software Engineering Terminology
+https://ieeexplore.ieee.org/document/159342
+
+### Linux Kernel History Report 2020
+https://www.linuxfoundation.org/resources/publications/linux-kernel-history-report-2020
+
+### Why Google stores billions of lines of code in a single repository
+https://dl.acm.org/doi/10.1145/2854146
+
+### No Silver Bullet Essence and Accidents of Software Engineering
+https://ieeexplore.ieee.org/document/1663532
