@@ -75,3 +75,33 @@ https://dl.acm.org/doi/book/10.5555/2505459
 
 ### Embracing change with extreme programming
 https://ieeexplore.ieee.org/document/796139
+
+### Software Engineering at Google
+https://arxiv.org/abs/1702.01715
+
+### Pair programming: what's in it for me?
+https://dl.acm.org/doi/10.1145/1414004.1414026
+
+### What agile teams think of agile principles
+https://dl.acm.org/doi/10.1145/2133806.2133823
+
+### SCRUM Development Process
+https://link.springer.com/chapter/10.1007/978-1-4471-0947-1_11
+
+### The Scrum Guide
+https://www.scrum.org/resources/scrum-guide
+
+### Kanban: Successful Evolutionary Change for Your Technology Business
+https://isbnsearch.org/isbn/0984521402
+
+### Agile Project Management with Kanban
+https://dl.acm.org/doi/book/10.5555/2774938
+
+### The Art of Computer Systems Performance Analysis: Techniques for Experimental Design, Measurement, Simulation, and Modeling
+https://isbnsearch.org/isbn/0471503363
+
+### A spiral model of software development and enhancement
+https://dl.acm.org/doi/10.1145/12944.12948
+
+### Development and Deployment at Facebook
+https://ieeexplore.ieee.org/document/6449236
