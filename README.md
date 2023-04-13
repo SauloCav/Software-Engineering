@@ -54,3 +54,24 @@ https://dl.acm.org/doi/10.1145/2854146
 
 ### No Silver Bullet Essence and Accidents of Software Engineering
 https://ieeexplore.ieee.org/document/1663532
+
+### the chaos report
+https://www.standishgroup.com/sample_research_files/chaos_report_1994.pdf
+
+### The New New Product Development Game
+https://hbr.org/1986/01/the-new-new-product-development-game
+
+### Business object design and implementation workshop
+https://dl.acm.org/doi/10.1145/260094.260274
+
+### The New New Product Development Game
+https://hbr.org/1986/01/the-new-new-product-development-game
+
+### Extreme programming explained: embrace change
+https://dl.acm.org/doi/book/10.5555/318762
+
+### Peopleware: Productive Projects and Teams 
+https://dl.acm.org/doi/book/10.5555/2505459
+
+### Embracing change with extreme programming
+https://ieeexplore.ieee.org/document/796139
