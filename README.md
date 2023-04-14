@@ -105,3 +105,32 @@ https://dl.acm.org/doi/10.1145/12944.12948
 
 ### Development and Deployment at Facebook
 https://ieeexplore.ieee.org/document/6449236
+
+Failures to be celebrated: an analysis of major pivots of software startups
+https://arxiv.org/abs/1710.04037
+
+The Top 10 Adages in Continuous Deployment
+https://www.computer.org/csdl/magazine/so/2017/03/mso2017030086/13rRUwIF6ja
+
+
+Online controlled experiments at large scale
+https://dl.acm.org/doi/10.1145/2487575.2488217
+
+Sprint O Metodo Usado no Google Para Testar e Aplicar Novas Ideias em Apenas Cinco Dias (Em Portugues do Brasil)
+https://isbnsearch.org/isbn/8551001523
+
+CSIndexbr is celebrating 5 years!
+https://csindexbr.org/
+
+The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses
+https://isbnsearch.org/isbn/0307887898
+
+Object-Oriented Software Engineering: A Use Case Driven Approach
+https://dl.acm.org/doi/book/10.5555/993806
+
+
+
+
+
+
+
