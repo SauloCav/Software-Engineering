@@ -141,3 +141,22 @@ https://dl.acm.org/doi/book/10.5555/557459
 
 ### Naming the Pain in Requirements Engineering: Contemporary Problems, Causes, and Effects in Practice
 https://arxiv.org/abs/1611.10288
+
+### JOT
+https://www.jot.fm/contents/issue_2003_09/article4.html
+
+### OMG
+https://www.omg.org/
+
+
+### Sketches and Diagrams in Practice
+https://arxiv.org/abs/1706.09172
+
+### No Silver Bullet Essence and Accidents of Software Engineering
+https://ieeexplore.ieee.org/document/1663532
+
+
+## Books
+
+### UML Distilled: A Brief Guide to the Standard Object Modeling Language
+https://dl.acm.org/doi/book/10.5555/861282
