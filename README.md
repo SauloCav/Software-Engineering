@@ -148,15 +148,64 @@ https://www.jot.fm/contents/issue_2003_09/article4.html
 ### OMG
 https://www.omg.org/
 
-
 ### Sketches and Diagrams in Practice
 https://arxiv.org/abs/1706.09172
 
 ### No Silver Bullet Essence and Accidents of Software Engineering
 https://ieeexplore.ieee.org/document/1663532
 
+### What's wrong with git?: a conceptual design analysis
+https://dl.acm.org/doi/10.1145/2509578.2509584
+
+### On the criteria to be used in decomposing systems into modules
+https://dl.acm.org/doi/10.1145/361598.361623
+
+### Engineering Software as a Service: An Agile Approach Using Cloud Computing
+https://saasbook.info/
+
+### Software Design Glossary
+https://engineering.fb.com/2011/09/27/uncategorized/software-design-glossary/
+
+### The Paperboy, The Wallet, and The Law Of Demeter
+https://www2.ccs.neu.edu/research/demeter/demeter-method/LawOfDemeter/paper-boy/demeter.pdf
+
+### Towards a metrics suite for object oriented design
+https://dl.acm.org/doi/10.1145/118014.117970
+
+
+
+
 
 ## Books
 
 ### UML Distilled: A Brief Guide to the Standard Object Modeling Language
 https://dl.acm.org/doi/book/10.5555/861282
+
+### The Mythical Man-Month: Essays on Softw
+https://dl.acm.org/doi/book/10.5555/540031
+
+### A Philosophy of Software Design
+https://dl.acm.org/doi/book/10.5555/3288797
+
+### Clean Architecture: A Craftsman's Guide to Software Structure and Design
+https://dl.acm.org/doi/book/10.5555/3175742
+
+### Design patterns: elements of reusable object-oriented software
+https://dl.acm.org/doi/book/10.5555/186897
+
+### Object-oriented software construction
+https://dl.acm.org/doi/book/10.5555/261119
+
+
+
+
+
+
+
+
+
+
+
+
+
+
