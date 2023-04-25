@@ -172,12 +172,14 @@ https://www2.ccs.neu.edu/research/demeter/demeter-method/LawOfDemeter/paper-boy/
 ### Towards a metrics suite for object oriented design
 https://dl.acm.org/doi/10.1145/118014.117970
 
+### A metrics suite for object oriented design
+https://ieeexplore.ieee.org/document/295895
 
-
+### A Complexity Measure
+https://ieeexplore.ieee.org/document/1702388
 
 
 ## Books
-
 ### UML Distilled: A Brief Guide to the Standard Object Modeling Language
 https://dl.acm.org/doi/book/10.5555/861282
 
@@ -196,16 +198,5 @@ https://dl.acm.org/doi/book/10.5555/186897
 ### Object-oriented software construction
 https://dl.acm.org/doi/book/10.5555/261119
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+### Exercises in Programming Style
+https://dl.acm.org/doi/book/10.5555/2648631
