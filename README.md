@@ -4,9 +4,6 @@ Software engineering is the process of developing, testing and deploying compute
 Though the original use of the term is uncertain, the first software engineering conference was held and sponsored by NATO in 1968. The conference addressed the inconsistency and unreliability in software development as well as the need for better quality assurance (QA) and reliability. The conference gathered international experts who agreed the systematic approach of physical world engineering should be applied to software development, as it already was developed with those goals in mind.
 
 ## Resources
-### Engenharia de Software Moderna
-https://engsoftmoderna.info/
-
 ### What Does a Software Engineer Do?
 https://www.coursera.org/articles/software-engineer
 
@@ -30,15 +27,6 @@ https://www.acm.org/code-of-ethics
 
 ### Manifesto for Agile Software Development
 https://agilemanifesto.org/
-
-### Object-oriented software construction (2nd ed.)
-https://dl.acm.org/doi/book/10.5555/261119
-
-### The mythical man-month (anniversary ed.)
-https://dl.acm.org/doi/book/10.5555/207583
-
-### Software Maintenance Management
-https://dl.acm.org/doi/book/10.5555/601062
 
 ### Software Engineering Body of Knowledge (SWEBOK)
 https://www.computer.org/education/bodies-of-knowledge/software-engineering
@@ -124,21 +112,6 @@ https://csindexbr.org/
 ### The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses
 https://isbnsearch.org/isbn/0307887898
 
-### Object-Oriented Software Engineering: A Use Case Driven Approach
-https://dl.acm.org/doi/book/10.5555/993806
-
-### User Stories Applied: For Agile Software Development
-https://dl.acm.org/doi/book/10.5555/984017
-
-### Applying UML and Patterns: An Introduction to Object-Oriented Analysis and Design and Iterative Development (3rd Edition)
-https://dl.acm.org/doi/book/10.5555/1044919
-
-### Writing Effective Use Cases
-https://dl.acm.org/doi/book/10.5555/517669
-
-### Extreme Programming Installed
-https://dl.acm.org/doi/book/10.5555/557459
-
 ### Naming the Pain in Requirements Engineering: Contemporary Problems, Causes, and Effects in Practice
 https://arxiv.org/abs/1611.10288
 
@@ -200,3 +173,30 @@ https://dl.acm.org/doi/book/10.5555/261119
 
 ### Exercises in Programming Style
 https://dl.acm.org/doi/book/10.5555/2648631
+
+### Engenharia de Software Moderna
+https://engsoftmoderna.info/
+
+### The mythical man-month (anniversary ed.)
+https://dl.acm.org/doi/book/10.5555/207583
+
+### Object-oriented software construction (2nd ed.)
+https://dl.acm.org/doi/book/10.5555/261119
+
+### Software Maintenance Management
+https://dl.acm.org/doi/book/10.5555/601062
+
+### Object-Oriented Software Engineering: A Use Case Driven Approach
+https://dl.acm.org/doi/book/10.5555/993806
+
+### User Stories Applied: For Agile Software Development
+https://dl.acm.org/doi/book/10.5555/984017
+
+### Applying UML and Patterns: An Introduction to Object-Oriented Analysis and Design and Iterative Development (3rd Edition)
+https://dl.acm.org/doi/book/10.5555/1044919
+
+### Writing Effective Use Cases
+https://dl.acm.org/doi/book/10.5555/517669
+
+### Extreme Programming Installed
+https://dl.acm.org/doi/book/10.5555/557459
