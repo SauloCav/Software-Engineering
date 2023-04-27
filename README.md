@@ -55,12 +55,6 @@ https://dl.acm.org/doi/10.1145/260094.260274
 ### The New New Product Development Game
 https://hbr.org/1986/01/the-new-new-product-development-game
 
-### Extreme programming explained: embrace change
-https://dl.acm.org/doi/book/10.5555/318762
-
-### Peopleware: Productive Projects and Teams 
-https://dl.acm.org/doi/book/10.5555/2505459
-
 ### Embracing change with extreme programming
 https://ieeexplore.ieee.org/document/796139
 
@@ -82,17 +76,11 @@ https://www.scrum.org/resources/scrum-guide
 ### Kanban: Successful Evolutionary Change for Your Technology Business
 https://isbnsearch.org/isbn/0984521402
 
-### Agile Project Management with Kanban
-https://dl.acm.org/doi/book/10.5555/2774938
-
 ### The Art of Computer Systems Performance Analysis: Techniques for Experimental Design, Measurement, Simulation, and Modeling
 https://isbnsearch.org/isbn/0471503363
 
 ### A spiral model of software development and enhancement
 https://dl.acm.org/doi/10.1145/12944.12948
-
-### Development and Deployment at Facebook
-https://ieeexplore.ieee.org/document/6449236
 
 ### Failures to be celebrated: an analysis of major pivots of software startups
 https://arxiv.org/abs/1710.04037
@@ -132,9 +120,6 @@ https://dl.acm.org/doi/10.1145/2509578.2509584
 
 ### On the criteria to be used in decomposing systems into modules
 https://dl.acm.org/doi/10.1145/361598.361623
-
-### Engineering Software as a Service: An Agile Approach Using Cloud Computing
-https://saasbook.info/
 
 ### Software Design Glossary
 https://engineering.fb.com/2011/09/27/uncategorized/software-design-glossary/
@@ -200,3 +185,18 @@ https://dl.acm.org/doi/book/10.5555/517669
 
 ### Extreme Programming Installed
 https://dl.acm.org/doi/book/10.5555/557459
+
+### Extreme programming explained: embrace change
+https://dl.acm.org/doi/book/10.5555/318762
+
+### Peopleware: Productive Projects and Teams 
+https://dl.acm.org/doi/book/10.5555/2505459
+
+### Engineering Software as a Service: An Agile Approach Using Cloud Computing
+https://saasbook.info/
+
+### Development and Deployment at Facebook
+https://ieeexplore.ieee.org/document/6449236
+
+### Agile Project Management with Kanban
+https://dl.acm.org/doi/book/10.5555/2774938
