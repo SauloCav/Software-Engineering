@@ -136,6 +136,9 @@ https://ieeexplore.ieee.org/document/295895
 ### A Complexity Measure
 https://ieeexplore.ieee.org/document/1702388
 
+### Class Calendar.Builder
+https://docs.oracle.com/javase/9/docs/api/java/util/Calendar.Builder.html
+
 
 ## Books
 ### UML Distilled: A Brief Guide to the Standard Object Modeling Language
@@ -200,3 +203,26 @@ https://ieeexplore.ieee.org/document/6449236
 
 ### Agile Project Management with Kanban
 https://dl.acm.org/doi/book/10.5555/2774938
+
+### Design patterns: elements of reusable object-oriented software
+https://dl.acm.org/doi/book/10.5555/186897
+
+### Effective Java (2nd Edition) (The Java Series)
+https://dl.acm.org/doi/book/10.5555/1377533
+
+
+## Projects and gists
+### Singleton (Design Patterns) mtov
+https://gist.github.com/mtov/704348e216e85918d7375a6b3d40dcdb
+
+### Channel Decorator (Design patterns) mtov
+https://gist.github.com/mtov/c8d65378a2904af01c20c53922f5ae1d
+
+### Observer (Design Pattern) mtov
+https://gist.github.com/mtov/5fadb0e599cb84fd6bd124b2ff37c03c
+
+### Visitor (Design Patterns) mtov
+https://gist.github.com/mtov/d447fd22974c57688d0fd109cb9509ea
+
+### Builder (Design Pattern) mtov
+https://gist.github.com/mtov/cb98612474f01eccc5e10fa08f82a62b
