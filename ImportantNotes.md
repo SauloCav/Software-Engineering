@@ -1,5 +1,6 @@
 # Software Engineering
 
+
 ## Fundamentals
 - Critical factors for software failures: <br>
 ▹ Increased demand: the techniques help us to build larger and more complex systems, demands change; <br>
@@ -70,6 +71,20 @@
 2) The time spent planning, redefining objectives, doing risk analysis and prototyping can be excessive;
 3) The model is complex;
 4) Experience in risk assessment is required.
+### Rational unified process
+- The Unified Process (UP), proposed in the late 90s, is another example of an iterative development method.
+- UP was proposed by professionals linked to a consulting and software development support tool company called Rational, which in 2003 would be bought by IBM. Therefore, the method is also called the Rational Unified Process (RUP);
+- Benefits
+1) Allows dealing with changing requirements, regardless of whether they come from the customer or the project itself;
+2) Emphasizes the need for accurate documentation;
+3) It forces integration to happen throughout software development, more specifically in the build phase.
+- Difficulties
+1) Depends on the ability of professionals to assign activities to individuals who then must produce pre-planned outputs in the form of artifacts;
+2) Integration into the development process can have an adverse impact on some more fundamental activities during the testing stages;
+3) Complex, especially for smaller companies, teams or projects.
+
+
+## Agile Development
 
 
 
