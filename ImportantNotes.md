@@ -84,7 +84,50 @@
 3) Complex, especially for smaller companies, teams or projects.
 
 
-## Agile Development
+## Agile Development 
+- In the 1980s and early 1990s, there was a widespread view that the best way to get the best software was through careful project planning. 
+- During the 1990s, there was dissatisfaction with these heavy-handed approaches to software engineering;
+- Allow the development team to focus on the software itself, and not on its design and documentation;
+- Reduce process bureaucracy.
+- While there are many approaches to agile software development, they share some key characteristics:
+1) The specification, implementation and testing processes are interspersed in an iterative manner;
+2) The system is developed in a series of versions (increments);
+3) Good practices emerge to deliver value.
+- Important points: <br>
+▸ They present processes, but “light”; <br>
+▸ Less emphasis on documentation; <br>
+▸ Less emphasis on big upfront design; <br>
+▸ Constant customer involvement; <br>
+▸ New practices (refactoring, code review, continuous integration); <br>
+▸ No method is a silver bullet; <br>
+▸ Processes are adaptable.
+- Difficulties:
+1) Success depends on a willing customer;
+2) Members may not have the personality for the intense involvement required;
+3) Prioritizing changes can be difficult;
+4) Keeping it simple takes extra work;
+5) Many organizations are very attached to established processes;
+6) Definition of contracts due to their dynamic nature.
+### Extreme programming
+- Extreme Programming (XP) was coined by Kent Beck (2000), as the approach was developed to boost known good practices, such as iterative development, to “extreme” levels.
+- Based on Values, Principles and Practices.
+- Pair programming: To develop the software, programmers work in pairs. Pairs are dynamically created so that all team members work with each other.
+- User Stories: Requirements are expressed as scenarios (called user stories), which are implemented directly as a series of tasks.
+- Test Driven Development: Programmers work in pairs and develop tests for each task before writing code.
+- When new code is integrated into the system, all tests should run successfully. There is a short gap between system releases.
+- XP takes an extreme approach to incremental development: <br>
+▹ New versions of the software can be built several times a day and releases are delivered to customers periodically; <br>
+▹ Release deadlines are never disrespected; <br>
+▹ When a developer creates a new version, he must run all existing automated tests, as well as tests for the new functionality; <br>
+▹ Accept that changes will happen and reorganize the software when those changes actually happen; <br>
+▹ Software must be constantly refactored to alleviate architectural degradation.
+### Scrum
+- Scrum is a lightweight framework that helps people, teams and organizations generate value through adaptive solutions for complex problems.
+
+
+
+
+
 
 
 
