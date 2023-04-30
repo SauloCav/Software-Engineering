@@ -254,12 +254,5 @@ According to IEEE 830, the most common quality criteria for a good requirements 
 - Change increases costs because it usually means that work must be redone. Approaches to cost reduction:
 1) Change prevention, includes activities capable of anticipating possible changes before any rework is necessary;
 2) Change tolerance, where the process is designed so that changes can be accommodated at relatively low cost.
-
-
-
-
-
-
-
-
-
+- Planning: Essential stage in the requirements management process. Determines the level of detail required in requirements management.
+- Change management: Decides whether the benefits of implementing new requirements justify the implementation costs. All proposed changes are handled formally.
