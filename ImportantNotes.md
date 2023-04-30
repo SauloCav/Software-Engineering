@@ -154,7 +154,34 @@
 ▸ Step 5: Retrospective and the next sprint planning
 
 
-
+## Requirements Engineering
+- Functional requirements are statements of services the system should provide, how the system should react, and how the system should behave.
+- Non-functional requirements are restrictions on the services or functions offered by the system. They apply to the system as a whole.
+- Product requirements: Need or restriction in the software to be developed
+- Process requirements: Restriction on software development.
+- System requirements: Requirements for the system as a whole. It encompasses user requirements, requirements from other interested parties (such as regulatory authorities and software architects), and requirements without an identifiable human source (hardware, firmware, etc).
+- Software requirements: Software requirements are derived from system requirements. Restricted to end user and customer requirements.
+- Requirements Engineering is the name given to the set of activities related to the elicitation, analysis, specification and validation of requirements.
+### Elicitation and analysis
+- Elicitar (or elicitate): "make come out, expel, expel".
+- Objective requirements analysis:
+1) Classification of requirements (type, priority, scope, etc);
+2) Conceptual modeling to understand the problem and solution;
+3) Conflict resolution (incompatibilities, disagreements, etc).
+- Difficulties in elicitation: <br>
+▸ Stakeholders often do not know what they want from a system; <br>
+▸ Stakeholders express requirements in their own terms and with implicit knowledge of their own work; <br>
+▸ Different stakeholders have different requirements and may express these differences in different ways; <br>
+▸ Political factors can influence the requirements of a system; <br>
+▸ The economic and business environment in which the analysis takes place is dynamic.
+- User Stories = 3C’s (Card + Conversations + Confirmation): <br>
+▹ Card: used by the PO to write a feature to be implemented; <br>
+▹ Conversation: verbal communication between the client and the team to understand each card; <br>
+▹ Confirmation: scenarios that will be used by the PO to accept the implementation of the story (written on the back of the card), ie “acceptance tests”.
+- How to write a user story? <br>
+▹ As a... (role or actor) (Who) <br>
+▹ I want to... (capacity or functionalities required) (What) <br>
+▹ So that... (why is it of business value or benefit) (why)
 
 
 
