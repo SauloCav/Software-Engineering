@@ -182,7 +182,78 @@
 ▹ As a... (role or actor) (Who) <br>
 ▹ I want to... (capacity or functionalities required) (What) <br>
 ▹ So that... (why is it of business value or benefit) (why)
-
+- Characteristics of good user stories: <br>
+▹ Independent <br>
+▹ Open for Negotiation <br>
+▹ Add Value <br>
+▹ Estimables <br>
+▹ Brief <br>
+▹ Testable
+- Formal or informal INTERVIEWS are part of most requirements engineering processes: <br>
+▹ Structured interviews, in which the stakeholder responds to a predefined set of questions; <br>
+▹ Semi-structured interviews, in which the stakeholder responds to a predefined set of questions, but there is still room for other questions that arise; <br>
+▹ Open interviews, in which there is no predefined agenda.
+- Effective interviewers have two characteristics:
+1) Are open to new ideas, avoid preconceived ideas about requirements and are willing to listen to stakeholders;
+2) They encourage the interviewee to participate in discussions with a springboard question, a requirements proposal or working together on a prototype of the system.
+- USE CASES are a requirements discovery technique which identifies actors in an interaction, this being supplemented by other graphical models.
+- More detailed requirements specification document;
+- Use Case is not so common with agile methods;
+- An actor performing some operation with the system;
+- Include normal flow and extensions;
+- However, use cases cannot portray all the subtleties of how the business is run. For this, you need business rules, that is, written and unwritten rules that dictate how a company or agency conducts its business.
+- ETHNOGRAPHY is an observation technique that can be used to understand operational processes which helps to extract support requirements.
+- Ethnography helps uncover implicit requirements that reflect the real ways people work.
+- People find it very difficult to express the details of their work.
+- Social and organizational factors can become clear only when analyzed by an impartial observer.
+### Requirements specification
+- Requirements specification refers to the production of a software requirements document (DRS) that can be systematically reviewed, evaluated and approved.
+- The DRS lays the groundwork for agreement between customers and contractors on what the software product should do, as well as what it is not expected to do;
+- DRS:
+1) Commitment to communicating requirements to customers;
+2) Define requirements in detail for developers and testers;
+3) Inclusion of information on system evolution;
+4) Information on anticipated changes;
+5) No need to present details of architecture or project;
+- Requirements specification refers to the production of a software requirements document (DRS) that can be systematically reviewed, evaluated and approved.
+- The DRS lays the groundwork for agreement between customers and contractors on what the software product should do, as well as what it is not expected to do;
+- DRS:
+1) Commitment to communicating requirements to customers;
+2) Define requirements in detail for developers and testers;
+3) Inclusion of information on system evolution;
+4) Information on anticipated changes;
+5) No need to present details of architecture or project;
+- In the context of agile methodologies, it uses user stories that form the product backlog.
+- The imprecision in the specification of requirements is the cause of many problems in software engineering;
+- The specification of the functional requirements of a system must be complete and consistent;
+- Common causes of errors: system complexity and number of stakeholders.
+- Software requirements are often written in natural language, but in software requirements specification this can be supplemented by formal or semi-formal descriptions.
+- Analyze the system and develop a set of graphical system models, such as use-case models, which then serve as a system specification.
+- For complex systems, you can demand in addition to the software requirements document: <br>
+▹ System definition document: Lists system requirements along with background information about the overall goals of the system, its target environment, and a statement of constraints, assumptions, and requirements. <br>
+▹ System requirements document: System requirements specification is a systems engineering activity and is outside the scope of ES.
+According to IEEE 830, the most common quality criteria for a good requirements specification are: <br>
+▹ Correct; <br>
+▹ Complete; <br>
+▹ Clara; <br>
+▹ Consistent; <br>
+▹ Modifiable; <br>
+▹ Prioritized; <br>
+▹ Verifiable; <br>
+▹ Traceable.
+### Requirements validation
+- Requirements documents may be subject to verification and validation procedures.
+- It is important to verify that a requirements document complies with company standards and that it is understandable, consistent and complete;
+- The requirements can be validated to ensure that the software engineer understood the requirements;
+- A prototype is an early version of a software system, used to demonstrate concepts, try out design options, and find out more about the problem and its possible solutions.
+- An MVP is the version of a new product that allows a team to collect as much information and learning about customers as possible with the least amount of effort and time.
+- In an MVP, you decide what is minimal, but it is the customer who decides whether the product is viable. Love the problem not the solution or technology you are using.
+- In short, prototyping helps us understand the viability of an idea and MVP is more about validated learning, which is one of the principles of Lean Startup.
+### Requirements management
+- Change is inevitable in all major software projects. Requirements change as the business responds to external pressures and priorities change.
+- Change increases costs because it usually means that work must be redone. Approaches to cost reduction:
+1) Change prevention, includes activities capable of anticipating possible changes before any rework is necessary;
+2) Change tolerance, where the process is designed so that changes can be accommodated at relatively low cost.
 
 
 
