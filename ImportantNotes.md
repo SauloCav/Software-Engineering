@@ -123,7 +123,35 @@
 ▹ Software must be constantly refactored to alleviate architectural degradation.
 ### Scrum
 - Scrum is a lightweight framework that helps people, teams and organizations generate value through adaptive solutions for complex problems.
-
+- Fundamentals of Scrum: <br>
+▹ Transparency <br>
+▹ Inspection <br>
+▹ Adaptation 
+- Roles of the Scrum Team (All have the same hierarchical level): <br>
+▹ Product Owner (PO) <br>
+▹ Developers <br>
+▹ Scrum Master
+- Scrum artifacts represent work or value. They are designed to maximize transparency of key information. Thus, all who inspect them have the same basis for adaptation: <br>
+▹ Product Backlog (Product Goal) <br>
+▹ Sprint Backlog (Sprint Goal) <br>
+▹ Increment (Definition of Done) 
+- The objective of the product backlog is to generate more transparency during the development of a project, to level the understanding of all those involved about what needs to be done and, especially, to maximize the possibility of constant evaluations and adaptations of tasks throughout the process.
+- For each story there is an estimate of difficulty defined through story points.
+- Planning Poker: brings together the opinion of several specialists, for a quick estimate of the project.
+- Events are used in Scrum to create regularity and minimize the need for undefined meetings.
+- Criteria for story completion: <br>
+▸ External quality: <br>
+▹ Acceptance tests (black box or functional) <br>
+▹ Non-functional tests (eg performance, usability) <br>
+▸ Internal quality: <br>
+▹ Unit tests; <br>
+▹ Code review. <br>
+- Agile Scrum methodology phases: <br>
+▸ Step 1:  Product Backlog Creation <br>
+▸ Step 2: Sprint planning and creating backlog <br>
+▸ Step 3: Working on sprint <br>
+▸ Step 4: Testing and Product Demonstration <br>
+▸ Step 5: Retrospective and the next sprint planning
 
 
 
