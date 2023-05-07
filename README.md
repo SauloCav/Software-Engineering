@@ -139,6 +139,12 @@ https://ieeexplore.ieee.org/document/1702388
 ### Class Calendar.Builder
 https://docs.oracle.com/javase/9/docs/api/java/util/Calendar.Builder.html
 
+### Criticism of Linux
+https://en.wikipedia.org/wiki/Criticism_of_Linux
+
+### The structure of the “THE”-multiprogramming system
+https://dl.acm.org/doi/10.1145/363095.363143
+
 
 ## Books
 ### UML Distilled: A Brief Guide to the Standard Object Modeling Language
@@ -209,6 +215,21 @@ https://dl.acm.org/doi/book/10.5555/186897
 
 ### Effective Java (2nd Edition) (The Java Series)
 https://dl.acm.org/doi/book/10.5555/1377533
+
+### Software Architecture: Foundations, Theory, and Practice
+https://dl.acm.org/doi/book/10.5555/1538494
+
+### Open Sources: Voices from the Open Source Revolution
+https://dl.acm.org/doi/book/10.5555/553109
+
+### Patterns of Enterprise Application Architecture
+https://dl.acm.org/doi/book/10.5555/579257
+
+### S
+https://dl.acm.org/doi/book/10.5555/1538494
+
+### S
+https://dl.acm.org/doi/book/10.5555/1538494
 
 
 ## Projects and gists
