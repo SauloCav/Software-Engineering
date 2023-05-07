@@ -145,6 +145,15 @@ https://en.wikipedia.org/wiki/Criticism_of_Linux
 ### The structure of the “THE”-multiprogramming system
 https://dl.acm.org/doi/10.1145/363095.363143
 
+### Uma Simples SPA
+https://engsoftmoderna.info/examples/vue.html
+
+### Big Ball of Mud
+https://joeyoder.com/PDFs/mud.pdf
+
+### Modularization of a Large-Scale Business Application: A Case Study
+https://ieeexplore.ieee.org/document/4786949
+
 
 ## Books
 ### UML Distilled: A Brief Guide to the Standard Object Modeling Language
@@ -225,11 +234,8 @@ https://dl.acm.org/doi/book/10.5555/553109
 ### Patterns of Enterprise Application Architecture
 https://dl.acm.org/doi/book/10.5555/579257
 
-### S
-https://dl.acm.org/doi/book/10.5555/1538494
-
-### S
-https://dl.acm.org/doi/book/10.5555/1538494
+### Refactoring: improving the design of existing code
+https://dl.acm.org/doi/book/10.5555/311424
 
 
 ## Projects and gists
@@ -247,3 +253,6 @@ https://gist.github.com/mtov/d447fd22974c57688d0fd109cb9509ea
 
 ### Builder (Design Pattern) mtov
 https://gist.github.com/mtov/cb98612474f01eccc5e10fa08f82a62b
+
+### Simple Single Page Application (SPA) using Vue.js
+https://gist.github.com/mtov/ac1120c5b3e0a85d39bb7b05d20ee307
