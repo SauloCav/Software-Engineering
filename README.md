@@ -112,9 +112,6 @@ https://www.omg.org/
 ### Sketches and Diagrams in Practice
 https://arxiv.org/abs/1706.09172
 
-### No Silver Bullet Essence and Accidents of Software Engineering
-https://ieeexplore.ieee.org/document/1663532
-
 ### What's wrong with git?: a conceptual design analysis
 https://dl.acm.org/doi/10.1145/2509578.2509584
 
@@ -171,9 +168,6 @@ https://dl.acm.org/doi/book/10.5555/3175742
 ### Design patterns: elements of reusable object-oriented software
 https://dl.acm.org/doi/book/10.5555/186897
 
-### Object-oriented software construction
-https://dl.acm.org/doi/book/10.5555/261119
-
 ### Exercises in Programming Style
 https://dl.acm.org/doi/book/10.5555/2648631
 
@@ -218,9 +212,6 @@ https://ieeexplore.ieee.org/document/6449236
 
 ### Agile Project Management with Kanban
 https://dl.acm.org/doi/book/10.5555/2774938
-
-### Design patterns: elements of reusable object-oriented software
-https://dl.acm.org/doi/book/10.5555/186897
 
 ### Effective Java (2nd Edition) (The Java Series)
 https://dl.acm.org/doi/book/10.5555/1377533
