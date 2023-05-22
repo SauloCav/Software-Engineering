@@ -228,6 +228,27 @@ https://dl.acm.org/doi/book/10.5555/579257
 ### Refactoring: improving the design of existing code
 https://dl.acm.org/doi/book/10.5555/311424
 
+### Succeeding with Agile: Software Development Using Scrum
+https://dl.acm.org/doi/book/10.5555/1667109
+
+### How Google Tests Software
+https://dl.acm.org/doi/book/10.5555/2207802
+
+### Clean Code: A Handbook of Agile Software Craftsmanship
+https://dl.acm.org/doi/book/10.5555/1388398
+
+### XUnit Test Patterns: Refactoring Test Code
+https://dl.acm.org/doi/book/10.5555/1076526
+
+### Pragmatic Unit Testing in Java 8 with JUnit
+https://dl.acm.org/doi/book/10.5555/2808995
+
+### Pragmatic Unit Testing in Java 8 with JUnit
+https://dl.acm.org/doi/book/10.5555/2808995
+
+### XUnit Test Patterns: Refactoring Test Code
+https://dl.acm.org/doi/book/10.5555/1076526
+
 
 ## Projects and gists
 ### Singleton (Design Patterns) mtov
@@ -247,3 +268,25 @@ https://gist.github.com/mtov/cb98612474f01eccc5e10fa08f82a62b
 
 ### Simple Single Page Application (SPA) using Vue.js
 https://gist.github.com/mtov/ac1120c5b3e0a85d39bb7b05d20ee307
+
+### Exemplo de Testabilidade - Servlet
+https://gist.github.com/mtov/72a7da4aed79818fbd6aae4e0774d6a5
+
+### Exemplo de testabilidade - Chamada Assíncrona
+https://gist.github.com/mtov/a3f73350010758925172a7f433e2ba71
+
+### Mock manual
+https://gist.github.com/mtov/c162dce743cc2cb8fdbc25605c35cc2b
+
+### guava
+https://github.com/google/guava/blob/master/guava-tests/test/com/google/common/base/StringsTest.java
+
+### Exemplo de Mocks - usando Mockito
+https://gist.github.com/mtov/f7781e3f164a62c85cf4294271b9c2fd
+
+### Exemplo de teste de servlet usando mocks
+https://gist.github.com/mtov/5372c7ffebe79c21768d0b1290c409b1
+
+### Exercício para converter teste manual em teste de unidade (automatizado)
+https://gist.github.com/mtov/11d9dce2bd37fe462003992835ebb1ba
+
