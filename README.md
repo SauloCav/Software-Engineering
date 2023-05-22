@@ -178,6 +178,24 @@ https://link.springer.com/chapter/10.1007/978-3-642-03013-0_19
 ### Why We Refactor? Confessions of GitHub Contributors
 https://arxiv.org/abs/1607.02459
 
+### How to teach Git
+https://rachelcarmena.github.io/2018/12/12/how-to-teach-git.html
+
+### Continuous deployment at Facebook and OANDA
+https://dl.acm.org/doi/10.1145/2889160.2889223
+
+### Continuous Integration
+https://martinfowler.com/articles/continuousIntegration.html
+
+### FeatureBranch
+https://martinfowler.com/bliki/FeatureBranch.html
+
+### Feature toggles: practitioner practices and a case study
+https://dl.acm.org/doi/10.1145/2901739.2901745
+
+### Why Google stores billions of lines of code in a single repository
+https://dl.acm.org/doi/10.1145/2854146
+
 
 ## Books
 ### UML Distilled: A Brief Guide to the Standard Object Modeling Language
@@ -281,6 +299,15 @@ https://dl.acm.org/doi/book/10.5555/169783
 
 ### A Philosophy of Software Design
 https://dl.acm.org/doi/book/10.5555/3288797
+
+### The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations
+https://dl.acm.org/doi/book/10.5555/3044729
+
+### Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation
+https://dl.acm.org/doi/book/10.5555/1869904
+
+### Extreme Programming Explained: Embrace Change (2nd Edition)
+https://dl.acm.org/doi/book/10.5555/1076267
 
 
 ## Projects and gists
