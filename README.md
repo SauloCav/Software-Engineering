@@ -169,6 +169,15 @@ https://ieeexplore.ieee.org/document/6449236
 ### Software Engineering at Google
 https://arxiv.org/abs/1702.01715
 
+### Do developers care about code smells? An exploratory survey
+https://ieeexplore.ieee.org/document/6671299
+
+### From Public to Private to Absent: Refactoring JAVA Programs under Constrained Accessibility
+https://link.springer.com/chapter/10.1007/978-3-642-03013-0_19
+
+### Why We Refactor? Confessions of GitHub Contributors
+https://arxiv.org/abs/1607.02459
+
 
 ## Books
 ### UML Distilled: A Brief Guide to the Standard Object Modeling Language
@@ -266,6 +275,12 @@ https://dl.acm.org/doi/book/10.5555/2808995
 
 ### XUnit Test Patterns: Refactoring Test Code
 https://dl.acm.org/doi/book/10.5555/1076526
+
+### Refactoring object-oriented frameworks
+https://dl.acm.org/doi/book/10.5555/169783
+
+### A Philosophy of Software Design
+https://dl.acm.org/doi/book/10.5555/3288797
 
 
 ## Projects and gists
