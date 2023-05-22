@@ -151,6 +151,24 @@ https://joeyoder.com/PDFs/mud.pdf
 ### Modularization of a Large-Scale Business Application: A Case Study
 https://ieeexplore.ieee.org/document/4786949
 
+### TestCoverage
+https://martinfowler.com/bliki/TestCoverage.html
+
+### Flaky Tests at Google and How We Mitigate Them
+https://testing.googleblog.com/2016/05/flaky-tests-at-google-and-how-we.html
+
+### Tasty mocking framework for unit tests in Java
+https://site.mockito.org/
+
+### The Selenium Browser Automation Project
+https://www.selenium.dev/documentation/
+
+### Development and Deployment at Facebook
+https://ieeexplore.ieee.org/document/6449236
+
+### Software Engineering at Google
+https://arxiv.org/abs/1702.01715
+
 
 ## Books
 ### UML Distilled: A Brief Guide to the Standard Object Modeling Language
@@ -290,3 +308,5 @@ https://gist.github.com/mtov/5372c7ffebe79c21768d0b1290c409b1
 ### Exercício para converter teste manual em teste de unidade (automatizado)
 https://gist.github.com/mtov/11d9dce2bd37fe462003992835ebb1ba
 
+### Teste de unidade de uma classe Stack
+https://gist.github.com/mtov/3601acd0b32a1d0a85b4a81a43af4284
