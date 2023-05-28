@@ -256,3 +256,34 @@ According to IEEE 830, the most common quality criteria for a good requirements 
 2) Change tolerance, where the process is designed so that changes can be accommodated at relatively low cost.
 - Planning: Essential stage in the requirements management process. Determines the level of detail required in requirements management.
 - Change management: Decides whether the benefits of implementing new requirements justify the implementation costs. All proposed changes are handled formally.
+
+
+## Software modeling
+- There is a gap between the following worlds: Requirements and code
+- A model is an abstraction of the system being studied, not an alternative representation of it. That is, it is a simplification (focus on the useful and required) of reality.
+- Models are cheaper to build than systems. Identified errors about models have a less disastrous impact.
+- Systems modeling is the process of developing abstract models of a system, where each model presents a different view or perspective of the system.
+- Software modeling runs through the entire software development lifecycle:
+▸ Software process models: Examples of software process models, such as the waterfall model (Waterfall), the incremental model, the spiral model and the agile model;
+▸ Requirement models: Requirements elicitation through user interviews, prototyping and group brainstorming;
+▸ Software architecture models: Example of layered architecture, where the application is divided into layers, such as the presentation layer, the business layer and the data layer;
+▸ Software Design Models: Using the UML to create class models, sequence diagrams, and activity diagrams to represent software design;
+▸ Software Testing Templates: Example of automated unit tests, using tools like JUnit to test each unit of code separately;
+▸ Software documentation templates: Source code documentation using tools like Javadoc and Doxygen to generate HTML documentation from code.
+- Principles of modeling
+1. The choice of model is important, including in terms of communication.
+2. Each model can be expressed at different levels of accuracy.
+3. The best models are connected to reality.
+4. No model is enough, so focus on the essentials
+
+
+
+
+
+
+
+
+
+
+
+
