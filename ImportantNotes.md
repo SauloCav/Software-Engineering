@@ -292,8 +292,17 @@ According to IEEE 830, the most common quality criteria for a good requirements 
 6. Prediction of future system behavior
 - EXISTING SYSTEMS: Clarifies what the system does and serves to identify strengths and weaknesses. Helps explain code that already exists. Also known as “Reverse Engineering”.
 - NEW SYSTEM: Helps explain the requirements to other stakeholders. It helps to discuss alternative design proposals, before having any line of code implemented. Recognized as “Avante Engineering”.
+- From different perspectives, we have different models to represent a system.
+### External Perspective
 
 
+### Interaction Perspective
+
+
+### Structural Perspective
+
+
+### Behavioral Perspective
 
 
 
