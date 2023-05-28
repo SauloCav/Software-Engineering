@@ -275,9 +275,23 @@ According to IEEE 830, the most common quality criteria for a good requirements 
 2. Each model can be expressed at different levels of accuracy.
 3. The best models are connected to reality.
 4. No model is enough, so focus on the essentials
-
-
-
+### UML
+- The UML is a visual language for modeling object-oriented systems;
+- Each graphic element has a syntax and semantics;
+- UML is independent of programming language and development process;
+- UML can be used as:
+1. Blueprint (detailed plan);
+2. Programming language (automatic code generation, model-driven architecture)
+3. Sketches (outlines, drafts)
+- Templates are commonly used for:
+1. Facilitate communication, visualization and discussion about the solution
+2. As a way of documenting the system and the decisions made
+3. Detailed guidance which can be used in implementation
+4. Part-by-part complexity management
+5. Reduction of development costs
+6. Prediction of future system behavior
+- EXISTING SYSTEMS: Clarifies what the system does and serves to identify strengths and weaknesses. Helps explain code that already exists. Also known as “Reverse Engineering”.
+- NEW SYSTEM: Helps explain the requirements to other stakeholders. It helps to discuss alternative design proposals, before having any line of code implemented. Recognized as “Avante Engineering”.
 
 
 
