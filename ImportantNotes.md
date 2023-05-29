@@ -326,5 +326,50 @@ According to IEEE 830, the most common quality criteria for a good requirements 
 - In the case of event-driven programming, it is the event (not the data itself) that controls the flow of the program.
 
 
+## Software Project
+- "The most fundamental problem in Computer Science is the task of problem decomposition: how to break a complex problem into parts that can be solved independently".
+- Project: <br>
+▹ Break a "big problem" into smaller parts; <br>
+▹ Resolution (or implementation) of the smaller parts solve (or implement) the "big problem".
+- Modularity is an organizing principle.
+- Software engineers must be aware of how they modularize the design because this has important quality implications.
+- Desirable properties in modularization: <br>
+▹ Each module is a well-defined system that can be used with other applications; <br>
+▹ Each module has specific objectives; <br>
+▹ Modules can be compiled separately and saved in the library; <br>
+▹ Modules should be easier to use than build; <br>
+▹ Modules are simpler on the outside than on the inside.
+- Design is the process of defining the architecture, components, interfaces and other characteristics of a system or component.
+- Design and implementation activities are closely linked, and when designing a project, you should consider emerging implementation issues: <br>
+▹ Use UML? <br>
+▹ Which webservices? <br>
+▹ Which APIs? <br>
+▹ Which platform?
+- Software design paves the way between requirements and implementation of a system.
+- The software requirements are analyzed in order to produce a description of the internal structure of the software that will serve as a basis for its construction.
+### Good design properties
+- Conceptual integrity <br>
+▸ Functionalities of a system must be coherent; <br>
+▸ System cannot be a "heap" of functionalities without any coherence or consistency; <br>
+▸ Conceptual integrity = coherence and standardization of functionalities, design and implementation to facilitate the use and understanding of the system.
+- Hiding Information <br>
+▸ Classes should hide internal implementation details (using the private modifier), especially those subject to change. <br>
+▸ Additionally, the class interface must be stable from the syntactic and semantic point of view;
+- Cohesion
+▸ Cohesion measures the degree to which elements of a given component (such as classes and methods) are related to each other.
+▸ High cohesion means that all elements within a component are directed toward performing a single task;
+▸ One of the best known metrics to calculate the "lack of cohesion" is called LCOM (Lack of Cohesion Between Methods).
+- Coupling
+▸ Coupling generally means the extent to which ("strength") two components depend ("relationship") on one another for successful execution;
+▸ Coupling can be very useful, especially when it occurs with the interface of a stable class that provides a service relevant to the source class. Bad coupling, on the other hand, should be avoided, as it is a coupling not mediated by stable interfaces.
+▸ Maximize cohesion (intra-module), minimize coupling (inter-module).
+### Design principles
+
+
+
+
+
+
+
 
 
