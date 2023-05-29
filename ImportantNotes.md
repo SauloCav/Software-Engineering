@@ -293,12 +293,19 @@ According to IEEE 830, the most common quality criteria for a good requirements 
 - EXISTING SYSTEMS: Clarifies what the system does and serves to identify strengths and weaknesses. Helps explain code that already exists. Also known as “Reverse Engineering”.
 - NEW SYSTEM: Helps explain the requirements to other stakeholders. It helps to discuss alternative design proposals, before having any line of code implemented. Recognized as “Avante Engineering”.
 - From different perspectives, we have different models to represent a system.
-### External Perspective
-
-
-### Interaction Perspective
-
-
+### External Perspective (CONTEXT MODELS)
+- At an early stage of specifying a system, you must decide the boundaries of the system (context or environment);
+- Boundary between the system and its environment;
+- The definition of the system boundary is not free of value judgments.
+- After defining the limits of the system, it is necessary to define the context and dependencies that the system has in its environment (simple architecture).
+- The Activity Diagram aims to show activities that make up a system process and the flow of control.
+### Interaction Perspective (INTERACTION MODELS)
+- All systems involve some kind of interaction (between the system and the environment, or between components);
+- System interaction modeling system highlights communication issues that may arise;
+- Interaction modeling helps us understand whether the proposed structure for the system is likely to produce the required performance and reliability.
+- Two approaches related to interaction modeling: <br>
+▸ Use case modeling, used primarily to model interactions between a system and external actors; <br>
+▸ Sequence diagrams, used to model interactions between system components, although external agents can also be included.
 ### Structural Perspective
 
 
