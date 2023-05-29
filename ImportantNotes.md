@@ -306,13 +306,24 @@ According to IEEE 830, the most common quality criteria for a good requirements 
 - Two approaches related to interaction modeling: <br>
 ▸ Use case modeling, used primarily to model interactions between a system and external actors; <br>
 ▸ Sequence diagrams, used to model interactions between system components, although external agents can also be included.
-### Structural Perspective
-
-
-### Behavioral Perspective
-
-
-
+### Structural Perspective (STRUCTURAL MODELS)
+- Models the organization of a system or the structure of the data that is processed;
+- They can be static (project structure) or dynamic (in execution);
+- You can create structural models when you are discussing and designing the system architecture.
+- Class diagrams: <br>
+▸ Shows the classes of a system and their associations; <br>
+▸ Real-world object modeling; <br>
+▸ Employs generalization, aggregation, and composition techniques. <br>
+▸ Generalization is useful for keeping common information in one place. If there are changes, you don't need to query every class in the system. <br>
+▸ Aggregation attempts to demonstrate that information from one object needs to be supplemented by information contained in one or more objects of another class. <br>
+▸ Composition attempts to represent a stronger bond between whole-part objects to the point where one does not exist without the other 
+### Behavioral Perspective (BEHAVIORAL MODELS)
+- Models the dynamic behavior of the system while it is running;
+- They show what happens or should happen when the system responds to a stimulus from its environment: <br>
+▹ Data: Some incoming data needs to be processed by the system; <br>
+▹ Events: Some events that happen trigger system processing.
+- Data-driven programming is a programming model where the data itself controls the flow of the program. 
+- In the case of event-driven programming, it is the event (not the data itself) that controls the flow of the program.
 
 
 
