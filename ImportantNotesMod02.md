@@ -151,10 +151,9 @@ This principle aims at reducing the dependency of a high-level Class on the low-
 ### Demeter
 - Demeter was the name of a research group at an American university (Northeastern University, in Boston, USA).
 - Summary: avoid long "chains" of method calls ("don't talk to strangers").
-- 
 
 
-
+## Software Architecture
 
 
 
