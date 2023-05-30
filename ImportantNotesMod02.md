@@ -191,18 +191,36 @@ This principle aims at reducing the dependency of a high-level Class on the low-
 - An architectural pattern proposes a higher-level organization for software systems, including their main modules and the relationships between them.
 - Architectural patterns or styles: catalog of a series of successfully used structures that facilitate certain types of component communication.
 - These patterns are reusable blueprints that describe the structure and interaction between collections of components.
+- An architectural pattern expresses a fundamental structural organization scheme for software. It provides a set of predefined subsystems and specifies their responsibilities, and includes rules and guidelines for organizing the relationship between them.
+- You can use architectural patterns in a number of ways:
+1. As the starting point for the architectural design process;
+2. As a project checklist;
+3. As a way to organize the work of the development team;
+4. As a way to evaluate components for reuse;
+5. As a vocabulary to talk about types of applications.
+6. How will the architectural project be evaluated?
+7. How should the system architecture be documented?
+8. To avoid the Big Ball of Mud.
+- Try to avoid the Big Ball of Mud (architectural anti-pattern), that is, a module can use practically any other module in the system; i.e. system is a "mess".
+### Client-Server Architecture:
 
 
+### Layered Architecture:
 
 
+### MVC architecture:
 
 
+### Architecture with Microservices:
 
 
+### Message Oriented Architecture:
 
 
+### Event Driven Architecture:
 
 
+### Duct and Filter architecture:
 
 
 
