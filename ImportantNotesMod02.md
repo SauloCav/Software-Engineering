@@ -96,12 +96,12 @@
 ▸ Classes should hide internal implementation details (using the private modifier), especially those subject to change. <br>
 ▸ Additionally, the class interface must be stable from the syntactic and semantic point of view;
 - Cohesion
-▸ Cohesion measures the degree to which elements of a given component (such as classes and methods) are related to each other.
-▸ High cohesion means that all elements within a component are directed toward performing a single task;
+▸ Cohesion measures the degree to which elements of a given component (such as classes and methods) are related to each other. <br>
+▸ High cohesion means that all elements within a component are directed toward performing a single task; <br>
 ▸ One of the best known metrics to calculate the "lack of cohesion" is called LCOM (Lack of Cohesion Between Methods).
 - Coupling
-▸ Coupling generally means the extent to which ("strength") two components depend ("relationship") on one another for successful execution;
-▸ Coupling can be very useful, especially when it occurs with the interface of a stable class that provides a service relevant to the source class. Bad coupling, on the other hand, should be avoided, as it is a coupling not mediated by stable interfaces.
+▸ Coupling generally means the extent to which ("strength") two components depend ("relationship") on one another for successful execution; <br>
+▸ Coupling can be very useful, especially when it occurs with the interface of a stable class that provides a service relevant to the source class. Bad coupling, on the other hand, should be avoided, as it is a coupling not mediated by stable interfaces. <br>
 ▸ Maximize cohesion (intra-module), minimize coupling (inter-module).
 ### SOLID
 - SOLID is an acronym created by Michael Feathers after observing five principles of object orientation and code design — Created by Robert C. Martin (a.k.a. Uncle Bob). Used to make the software more change tolerant and easier to understand.
@@ -174,8 +174,23 @@ This principle aims at reducing the dependency of a high-level Class on the low-
 2) Responsibilities
 3) Relationships
 4) Strategies
-
-
+- Software architecture is important as it affects the performance and robustness as well as the deployability and maintainability of a system. Individual components implement functional requirements, while non-functional requirements depend on the architecture.
+- Therefore, the architectural model can serve: <br>
+▹ As a document of what was designed; <br>
+▹ To facilitate discussion and negotiation with customers, developers and managers; <br>
+▹ Complexity management tool;
+- System architects need to make a series of structural decisions:
+1. Is there a generic application architecture that can be reused?
+2. How will the system be distributed over a number of processors?
+3. What architectural patterns or styles can be used?
+4. What will be the fundamental approach to structuring the system?
+5. How will the structural components of the system be decomposed?
+6. How will the architectural project be evaluated?
+7. How should the system architecture be documented?
+- The architecture of a software system can be based on a certain pattern or style of architecture.
+- An architectural pattern proposes a higher-level organization for software systems, including their main modules and the relationships between them.
+- Architectural patterns or styles: catalog of a series of successfully used structures that facilitate certain types of component communication.
+- These patterns are reusable blueprints that describe the structure and interaction between collections of components.
 
 
 
