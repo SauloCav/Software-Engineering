@@ -238,26 +238,11 @@ This principle aims at reducing the dependency of a high-level Class on the low-
 - Message Oriented Architecture enables loose coupling between clients and servers.
 - In Message Driven systems, each component sends items to a fixed recipient. In Event Driven systems, on the other hand, each component produces data items with a fixed sender and shares them with any consumer.
 ### Event Driven Architecture:
-
-
+- An event-driven architecture consists of Event Producers that generate a stream of events and Event Consumers that "listen" to the events. Producers and Consumers do not know each other.
+- In Event Sourcing, events are recorded in a log. Consumers are not required to subscribe to an event stream.
+- Publish-Subscribe model (pub/sub): systems can: (1) publish events (publishers); (2) subscribe to events (subscribers); (3) be notified of the occurrence of events.
 ### Duct and Filter architecture:
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- Provides a framework for systems that process a stream of data, ie data-driven modeling.
+- Data flows from one to another and transforms as it moves through the sequence. Each processing step is implemented as a transformation: <br>
+▹ Pipes: connector that transmits data between filters. Pipes are used to store the output of one filter while it is not read by the next filter in the sequence; <br>
+▹ Filters: component that transforms the data. Each filter (filter) works independently, which expects a given input to produce a given output; <br>
