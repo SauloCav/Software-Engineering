@@ -154,6 +154,39 @@ This principle aims at reducing the dependency of a high-level Class on the low-
 
 
 ## Software Architecture
+- Architecture is always design. Design is not always architecture.
+- Software architecture design (sometimes called high-level design): Develops the top-level structure and organization of the software and identifies the various components.
+- Detailed software design: specify each component in sufficient detail to facilitate its construction
+- Focus is no longer on small units (eg classes and interfaces):
+- But larger and more relevant units;
+- Packages, modules, subsystems, layers, services, etc.
+- Definition of relevance depends on the system.
+- Software architecture is the fundamental organization of a system, embodied in its components, their relationships with each other and with the environment, and the principles that govern their design and evolution.
+- Software architecture is the structure or structures of the system, comprising software elements, the externally visible properties of those elements, and the relationships between them.
+- Bases for understanding software architecture
+1) Captures the structure of the system in relation to its components and how they are related;
+2) Defines the design rules of the whole system, considering how a system can change;
+3) Makes explicit the role of abstraction (externally visible properties) and various architectural views (system structures).
+- The software architecture goes beyond the calculation algorithms and data structures; designing and specifying the general structure of the system emerges as a new type of problem. Structural issues include overall organization and control structure; communication, synchronization and data access protocols; assignment of functionality to design elements; physical distribution; composition of design elements; sizing and performance; and selection among design alternatives.
+- Architectural design is concerned with understanding how a system should be organized and with the overall structure of that system. Ensuring that business objectives, quality attributes and constraints are met.
+- Software Architecture
+1) Components
+2) Responsibilities
+3) Relationships
+4) Strategies
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
