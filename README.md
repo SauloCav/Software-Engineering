@@ -201,9 +201,6 @@ https://dl.acm.org/doi/10.1145/2854146
 ### UML Distilled: A Brief Guide to the Standard Object Modeling Language
 https://dl.acm.org/doi/book/10.5555/861282
 
-### The Mythical Man-Month: Essays on Softw
-https://dl.acm.org/doi/book/10.5555/540031
-
 ### A Philosophy of Software Design
 https://dl.acm.org/doi/book/10.5555/3288797
 
