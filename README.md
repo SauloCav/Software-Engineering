@@ -279,12 +279,6 @@ https://dl.acm.org/doi/book/10.5555/2207802
 ### Clean Code: A Handbook of Agile Software Craftsmanship
 https://dl.acm.org/doi/book/10.5555/1388398
 
-### XUnit Test Patterns: Refactoring Test Code
-https://dl.acm.org/doi/book/10.5555/1076526
-
-### Pragmatic Unit Testing in Java 8 with JUnit
-https://dl.acm.org/doi/book/10.5555/2808995
-
 ### Pragmatic Unit Testing in Java 8 with JUnit
 https://dl.acm.org/doi/book/10.5555/2808995
 
